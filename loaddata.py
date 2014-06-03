@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 23 11:43:47 2014
 
-@author: will
+@author: Will McFadden (wmcfadden)
 """
 
 import json
